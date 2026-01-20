@@ -1,4 +1,4 @@
-public class funcao5IF_Else {
+public class funcao5IfElse {
         public static void main(String[] args) {
             // CHAMANDO A FUNÇÃO
             String resultado = VerificAcess(19, true, false);
@@ -28,4 +28,5 @@ public class funcao5IF_Else {
             }
             
         }
-}
+    }
+

@@ -1,4 +1,4 @@
-package HoraDeCodarJava;
+//package HoraDeCodarJava;
 
 public class funcao {
     public static void main(String[] args) {
