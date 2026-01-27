@@ -1,0 +1,11 @@
+package CursoHoraCodarJava.AulaArrays;
+
+public class ListaAtualizArray {
+    public static void main(String[] args) {
+        int [] numeros = {10, 20, 30, 40, 50};
+        for (int i=0;i<numeros.length;i++){
+            numeros[i]*=2;
+            System.out.println("Índice " + i + ": " + numeros[i]);
+        }
+    }
+}
